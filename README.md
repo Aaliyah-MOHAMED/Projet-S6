@@ -1,5 +1,6 @@
 # Projet S6
 Synchronisation de 4 haut-parleurs
+Aaliyah MOHAMED   Clara DURIVAULT​     Donietta RANDON​     Pierre MAZUCCA
 
 ## Introduction
 ### Présentation du projet
